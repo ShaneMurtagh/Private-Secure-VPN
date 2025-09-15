@@ -20,7 +20,7 @@ In this Lab, I will show how to set up your own self-hosted WireGuard Virtual Pr
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Signing up for Digital ocean: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
