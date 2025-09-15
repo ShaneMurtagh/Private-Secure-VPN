@@ -4,7 +4,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this Lab, I will show how to set up your own self-hosted WireGuard Virtual Private Network (VPN) server with a website based User Interface (UI) sign in page to manage VPN clients as an admin. Your WireGuard VPN will be installed using WireGuard Easy (wg-easy) GitHub repository using an Ubuntu Linux based cloud server also known as a Virtual Private Server (VPS). I will also use Docker and Bcrypt's password hasher to run wg-easy and hash your web UI sign in password for enhancing password security. WireGuard is a cross-platform opensource VPN that utilises cryptography in its protocol. DigitalOcean will be the VPS host provider used in this demonstration. It offers cloud servers through a service called Droplets. 
 <br />
 
 
