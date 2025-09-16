@@ -21,7 +21,7 @@ In this Project, I will show how I set up my own self-hosted WireGuard Virtual P
 
 <p align="center">
 Signing up for Digital ocean: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/TGNILkw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  <b>Ok to start I used a vps provider (Oceandrop) to purchace some cloud computing. I chose a basic plan with regular ssd
  and 1gb memory priced at 6$ a month. I set the server location to New York city. I selected the latests version of ubuntu
