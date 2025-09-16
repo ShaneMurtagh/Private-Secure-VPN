@@ -4,28 +4,36 @@
 
 
 <h2>Description</h2>
-In this Project, I will show how to set up your own self-hosted WireGuard Virtual Private Network (VPN) server with a website based User Interface (UI) sign in page to manage VPN clients as an admin.  WireGuard VPN will be installed using WireGuard Easy (wg-easy) GitHub repository using an Ubuntu Linux based cloud server also known as a Virtual Private Server (VPS). I will also use Docker and Bcrypt's password hasher to run wg-easy and hash your web UI sign in password for enhancing password security. WireGuard is a cross-platform opensource VPN that utilises cryptography in its protocol. DigitalOcean will be the VPS host provider used in this demonstration. It offers cloud servers through a service called Droplets.I will also be using a domian that points to the vps for the wg-easy Ui landing page.
+In this Project, I will show how I set up my own self-hosted WireGuard Virtual Private Network (VPN) server with a website based User Interface (UI) sign in page to manage VPN clients as an admin.  WireGuard VPN will be installed using WireGuard Easy (wg-easy) GitHub repository using an Ubuntu Linux based cloud server also known as a Virtual Private Server (VPS). I will also use Docker and Bcrypt's password hasher to run wg-easy and hash your web UI sign in password for enhancing password security. WireGuard is a cross-platform opensource VPN that utilises cryptography in its protocol. DigitalOcean will be the VPS host provider used in this demonstration. It offers cloud servers through a service called Droplets.I will also be using a domian that points to the vps for the wg-easy Ui landing page.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Whats Needed</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>WireGuard</b> 
+- <b>Server host</b>
+- <b>Domain</b>
+- <b>PuTTY</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2> The Steps:</h2>
 
 <p align="center">
 Signing up for Digital ocean: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+ 
+ <b>Ok to start I used a vps provider (Oceandrop) to purchace some cloud computing. I chose a basic plan with regular ssd
+ and 1gb memory priced at 6$ a month. I set the server location to New York city. I selected the latests version of ubuntu
+ for the vps. And chose password as Authentication method and set the password for the vps
+
+</b>
+ 
+ <br />
+ 
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://imgur.com/a/TGNILkw)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
