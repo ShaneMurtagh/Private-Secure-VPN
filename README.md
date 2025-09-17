@@ -14,6 +14,8 @@ In this Project, I will show how I set up my own self-hosted WireGuard Virtual P
 - <b>Server host</b>
 - <b>Domain</b>
 - <b>PuTTY</b>
+- <b>https://github.com/wg-easy/wg-easy?tab=readme-ov-file</b>
+
 
 
 
