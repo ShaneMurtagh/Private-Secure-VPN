@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-In this Project, I will show how I set up my own self-hosted WireGuard Virtual Private Network (VPN) server with a website based User Interface (UI) sign in page to manage VPN clients as an admin.  WireGuard VPN will be installed using WireGuard Easy (wg-easy) GitHub repository using an Ubuntu Linux based cloud server also known as a Virtual Private Server (VPS). I will also use Docker and Bcrypt's password hasher to run wg-easy and hash your web UI sign in password for enhancing password security. WireGuard is a cross-platform opensource VPN that utilises cryptography in its protocol. DigitalOcean will be the VPS host provider used in this demonstration. It offers cloud servers through a service called Droplets.I will also be using a domian that points to the vps for the wg-easy Ui landing page.
+In this Project, I will show how I set up my own self-hosted WireGuard Virtual Private Network (VPN) server with a website based User Interface (UI) sign in page to manage VPN clients as an admin.  WireGuard VPN will be installed using WireGuard Easy (wg-easy) GitHub repository using an Ubuntu Linux based cloud server also known as a Virtual Private Server (VPS). I will also use Docker and Bcrypt's password hasher to run wg-easy and hash the web UI sign in password for enhancing password security. WireGuard is a cross-platform opensource VPN that utilises cryptography in its protocol. DigitalOcean will be the VPS host provider used in this demonstration. It offers cloud servers through a service called Droplets.I will also be using a domian that points to the vps for the wg-easy Ui.
 <br />
 
 
