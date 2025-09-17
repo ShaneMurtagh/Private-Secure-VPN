@@ -23,7 +23,7 @@ In this Project, I will show how I set up my own self-hosted WireGuard Virtual P
 Virtual private server : <br/>
 <img src="https://i.imgur.com/Mo5nLOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
- <b>To start I used a vps provider (Oceandrop) to purchace some cloud computing. I chose a basic plan with regular ssd and 1gb memory priced at 6$ a month. I set the server location to New York city. I selected the latests version of ubuntu for the vps. And chose password as Authentication method and set the password for the vps
+ <b>To start I used a vps provider (Oceandrop) to purchace some cloud computing. I chose a basic plan with regular ssd and 1000gb memory priced at 6$ a month. I set the server location to New York city. I selected the latests version of ubuntu for the vps. And chose password as Authentication method and set the password for the vps
 
 </b>
  
